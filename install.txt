@@ -1,0 +1,7 @@
+For Local machine
+1. Install python3.8
+2. Install pip
+3. Install dependencies from dependencies.txt
+4. Run source_code.py
+5. Visit local_host
+6. Enter User id and password from credentials.txt
