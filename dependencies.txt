@@ -1,0 +1,6 @@
+python3.8,
+pandas,
+numpy,
+dash,
+dash-auth,
+pyrebase
