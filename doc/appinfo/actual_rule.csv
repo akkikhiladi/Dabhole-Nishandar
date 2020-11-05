@@ -1,0 +1,23 @@
+Iteam,Fitment,Rating,Condition,Function,Testing
+Spark Plug,1,1,1,0,0
+Head Lamp ,1,0,0,1,1
+Other Lamp,1,0,1,1,0
+Reflectors,1,0,1,0,0
+Bulb,1,1,1,0,0
+Rear View Mirror,1,0,1,0,0
+Safety Glass,1,1,0,0,1
+Horn,1,0,1,0,1
+Silencer,1,0,1,0,1
+Dash Board Equipment,1,0,1,0,1
+Wind Shield Wiper,1,0,1,0,1
+Exhaust Emission,0,0,0,1,1
+Breaking System,1,0,1,1,1
+Speedo meter,1,0,1,0,1
+Steering Gear,1,0,1,1,1
+"Rear Under run Protecting Device For N2,N3,T3,T4",1,0,0,0,1
+"Lateral Side  Protecting Device For N2,N3,T3,T4",1,0,0,0,1
+Fastag,1,1,1,0,0
+"Priority Seats ,Sights",1,0,1,1,0
+Wheel Chair Entry,1,0,1,1,0
+Maximum Speed,0,0,0,0,1
+Reflectors,1,0,1,0,0
